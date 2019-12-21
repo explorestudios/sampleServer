@@ -1,27 +1,29 @@
-[ { "AppLink" : "https://play.google.com/store/apps/details?id=com.odia.sticker",
-  "Version" : "19",
-  "visiable" : "Yes",
-  "updatetxt" : "ଆସିଲା ନୂଆ WhatsApp ଷ୍ଟିକର ଆପ୍ପ ଓଡ଼ିଆରେ- ଏବେ ହିଁ  Download କରନ୍ତୁ ",
-  "breakup": [
-
-{ "CatName" : "ଓଡ଼ିଶା GK",
-  "SubCatName" : "Odisha GK",
-  "CatIMG" : "https://suhanihost.com/projects/odiagk1/cat/odisha.png",
-  "CatLink" : "https://suhanihost.com/projects/odiagk1/cat/odisha.json" },
-
-{ "CatName" : "ଭାରତ GK",
-  "SubCatName" : "Indian GK",
-  "CatIMG" : "https://suhanihost.com/projects/odiagk1/cat/india.png",
-  "CatLink" : "https://suhanihost.com/projects/odiagk1/cat/india.json" },
-
-{ "CatName" : "ବିଶ୍ୱ  GK",
-  "SubCatName" : "World GK",
-  "CatIMG" : "https://suhanihost.com/projects/odiagk1/cat/world.png",
-  "CatLink" : "https://suhanihost.com/projects/odiagk1/cat/world.json" },
-
-{ "CatName" : "ଅନ୍ୟାନ୍ୟ GK",
-  "SubCatName" : "More GK Questions",
-  "CatIMG" : "https://suhanihost.com/projects/odiagk1/cat/other.png",
-  "CatLink" : "https://suhanihost.com/projects/odiagk1/cat/other.json"}
-  ]
-  } ]
+{
+  "data" : [{ "AppLink" : "https://play.google.com/store/apps/details?id=com.odia.sticker",
+    "Version" : "19",
+    "visiable" : "Yes",
+    "updatetxt" : "ଆସିଲା ନୂଆ WhatsApp ଷ୍ଟିକର ଆପ୍ପ ଓଡ଼ିଆରେ- ଏବେ ହିଁ  Download କରନ୍ତୁ ",
+    "breakup": [
+  
+  { "CatName" : "ଓଡ଼ିଶା GK",
+    "SubCatName" : "Odisha GK",
+    "CatIMG" : "https://suhanihost.com/projects/odiagk1/cat/odisha.png",
+    "CatLink" : "https://suhanihost.com/projects/odiagk1/cat/odisha.json" },
+  
+  { "CatName" : "ଭାରତ GK",
+    "SubCatName" : "Indian GK",
+    "CatIMG" : "https://suhanihost.com/projects/odiagk1/cat/india.png",
+    "CatLink" : "https://suhanihost.com/projects/odiagk1/cat/india.json" },
+  
+  { "CatName" : "ବିଶ୍ୱ  GK",
+    "SubCatName" : "World GK",
+    "CatIMG" : "https://suhanihost.com/projects/odiagk1/cat/world.png",
+    "CatLink" : "https://suhanihost.com/projects/odiagk1/cat/world.json" },
+  
+  { "CatName" : "ଅନ୍ୟାନ୍ୟ GK",
+    "SubCatName" : "More GK Questions",
+    "CatIMG" : "https://suhanihost.com/projects/odiagk1/cat/other.png",
+    "CatLink" : "https://suhanihost.com/projects/odiagk1/cat/other.json"}
+    ]
+    } ]
+}
